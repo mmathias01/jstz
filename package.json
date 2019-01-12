@@ -1,6 +1,6 @@
 {
-  "name": "jstz",
-  "version": "2.1.1",
+  "name": "@mmathias01/jstz",
+  "version": "3.0.0",
   "main": "dist/jstz.min.js",
   "module": "dist/jstz.esm.js",
   "description": "Timezone detection for JavaScript",
@@ -33,11 +33,11 @@
     "node": ">=0.10"
   },
   "bugs": {
-    "url": "https://github.com/iansinnott/jstz/issues"
+    "url": "https://github.com/mmathias01/jstz/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iansinnott/jstz"
+    "url": "https://github.com/mmathias01/jstz"
   },
   "licenses": [
     {

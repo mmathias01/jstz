@@ -1,4 +1,4 @@
-/* jstz.min.js Version: 2.1.1 Build date: 2018-12-29 */
+/* jstz.min.js Version: 3.0.0 Build date: 2019-01-12 */
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
   typeof define === 'function' && define.amd ? define(factory) :
@@ -656,7 +656,7 @@
     }
   });
 
-  /* Build time: 2018-12-29 09:32:00Z Build by invoking python utilities/dst.py generate */
+  /* Build time: 2019-01-12 23:00:35Z Build by invoking python utilities/dst.py generate */
   var dst_rules = {
     "years": [2014, 2015, 2016, 2017, 2018],
     "zones": [{

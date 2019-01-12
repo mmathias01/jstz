@@ -1,5 +1,5 @@
-/* jstz.min.js Version: 2.1.1 Build date: 2018-12-29 */
-/* Build time: 2018-12-29 09:32:00Z Build by invoking python utilities/dst.py generate */
+/* jstz.min.js Version: 3.0.0 Build date: 2019-01-12 */
+/* Build time: 2019-01-12 23:00:35Z Build by invoking python utilities/dst.py generate */
 var dst_rules = {
     "years": [
         2014,
